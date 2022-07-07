@@ -9,9 +9,5 @@ public class GitTest {
         System.out.println("master git!");
         System.out.println("hot-fix git!");
         System.out.println("push git!");
-        System.out.println("push git2 -https!");
-        System.out.println("push git3 -https!");
-        System.out.println("push git4 -https!");
-        System.out.println("push git5 -https!");
     }
 }
